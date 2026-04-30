@@ -15,4 +15,16 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/chahakk14/DSA/tree/master/0279-perfect-squares) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/chahakk14/DSA/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/chahakk14/DSA/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/chahakk14/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
