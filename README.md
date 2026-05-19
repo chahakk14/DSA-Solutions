@@ -11,6 +11,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0204-count-primes](https://github.com/chahakk14/DSA/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/chahakk14/DSA/tree/master/0279-perfect-squares) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chahakk14/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chahakk14/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | ------- |
 | [0206-reverse-linked-list](https://github.com/chahakk14/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/chahakk14/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chahakk14/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
