@@ -12,6 +12,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0279-perfect-squares](https://github.com/chahakk14/DSA/tree/master/0279-perfect-squares) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chahakk14/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chahakk14/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/chahakk14/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,8 +80,13 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0876-middle-of-the-linked-list](https://github.com/chahakk14/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chahakk14/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/chahakk14/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/chahakk14/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/chahakk14/DSA/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/chahakk14/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
