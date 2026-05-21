@@ -10,6 +10,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0048-rotate-image](https://github.com/chahakk14/DSA/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/chahakk14/DSA/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/chahakk14/DSA/tree/master/0279-perfect-squares) |
+| [0342-power-of-four](https://github.com/chahakk14/DSA/tree/master/0342-power-of-four) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chahakk14/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chahakk14/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/chahakk14/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -60,6 +61,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/chahakk14/DSA/tree/master/0191-number-of-1-bits) |
+| [0342-power-of-four](https://github.com/chahakk14/DSA/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
 | ------- |
@@ -85,6 +87,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/chahakk14/DSA/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/chahakk14/DSA/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
