@@ -25,6 +25,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/chahakk14/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/chahakk14/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/chahakk14/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chahakk14/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -102,4 +103,8 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/chahakk14/DSA/tree/master/0155-min-stack) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/chahakk14/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
