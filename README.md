@@ -18,6 +18,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/chahakk14/DSA/tree/master/0279-perfect-squares) |
+| [0338-counting-bits](https://github.com/chahakk14/DSA/tree/master/0338-counting-bits) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chahakk14/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Breadth-First Search
 |  |
@@ -67,6 +68,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/chahakk14/DSA/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/chahakk14/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/chahakk14/DSA/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
