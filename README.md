@@ -18,6 +18,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/chahakk14/DSA/tree/master/0279-perfect-squares) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chahakk14/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0204-count-primes](https://github.com/chahakk14/DSA/tree/master/0204-count-primes) |
 | [0682-baseball-game](https://github.com/chahakk14/DSA/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chahakk14/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chahakk14/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +50,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chahakk14/DSA/tree/master/0011-container-with-most-water) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chahakk14/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +106,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chahakk14/DSA/tree/master/0020-valid-parentheses) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chahakk14/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Design
 |  |
 | ------- |
