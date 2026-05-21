@@ -18,6 +18,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/chahakk14/DSA/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/chahakk14/DSA/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/chahakk14/DSA/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/chahakk14/DSA/tree/master/0338-counting-bits) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chahakk14/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -37,6 +38,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0048-rotate-image](https://github.com/chahakk14/DSA/tree/master/0048-rotate-image) |
 | [0198-house-robber](https://github.com/chahakk14/DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/chahakk14/DSA/tree/master/0204-count-primes) |
+| [0213-house-robber-ii](https://github.com/chahakk14/DSA/tree/master/0213-house-robber-ii) |
 | [0682-baseball-game](https://github.com/chahakk14/DSA/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chahakk14/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chahakk14/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
