@@ -40,6 +40,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0198-house-robber](https://github.com/chahakk14/DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/chahakk14/DSA/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/chahakk14/DSA/tree/master/0213-house-robber-ii) |
+| [0622-design-circular-queue](https://github.com/chahakk14/DSA/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/chahakk14/DSA/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chahakk14/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/chahakk14/DSA/tree/master/1598-crawler-log-folder) |
@@ -98,6 +99,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | ------- |
 | [0206-reverse-linked-list](https://github.com/chahakk14/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/chahakk14/DSA/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/chahakk14/DSA/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/chahakk14/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chahakk14/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/chahakk14/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -129,6 +131,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | ------- |
 | [0155-min-stack](https://github.com/chahakk14/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/chahakk14/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/chahakk14/DSA/tree/master/0622-design-circular-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,4 +165,5 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/chahakk14/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/chahakk14/DSA/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
