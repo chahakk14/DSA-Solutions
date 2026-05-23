@@ -166,4 +166,16 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/chahakk14/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/chahakk14/DSA/tree/master/0622-design-circular-queue) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/chahakk14/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/chahakk14/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/chahakk14/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
