@@ -113,6 +113,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | ------- |
 | [0020-valid-parentheses](https://github.com/chahakk14/DSA/tree/master/0020-valid-parentheses) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chahakk14/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3931-check-adjacent-digit-differences](https://github.com/chahakk14/DSA/tree/master/3931-check-adjacent-digit-differences) |
 ## Design
 |  |
 | ------- |
