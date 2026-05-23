@@ -14,6 +14,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chahakk14/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chahakk14/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/chahakk14/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/chahakk14/DSA/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chahakk14/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/chahakk14/DSA/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Sorting
 |  |
 | ------- |
