@@ -112,6 +112,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | ------- |
 | [0020-valid-parentheses](https://github.com/chahakk14/DSA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/chahakk14/DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/chahakk14/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/chahakk14/DSA/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chahakk14/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/chahakk14/DSA/tree/master/1598-crawler-log-folder) |
@@ -127,6 +128,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/chahakk14/DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/chahakk14/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,4 +158,8 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/chahakk14/DSA/tree/master/3934-smallest-unique-subarray) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/chahakk14/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
