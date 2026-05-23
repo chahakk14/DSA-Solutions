@@ -44,6 +44,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chahakk14/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chahakk14/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/chahakk14/DSA/tree/master/3933-largest-local-values-in-a-matrix-ii) |
+| [3934-smallest-unique-subarray](https://github.com/chahakk14/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chahakk14/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/chahakk14/DSA/tree/master/3932-count-k-th-roots-in-a-range) |
+| [3934-smallest-unique-subarray](https://github.com/chahakk14/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +128,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chahakk14/DSA/tree/master/0001-two-sum) |
+| [3934-smallest-unique-subarray](https://github.com/chahakk14/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -138,4 +141,16 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/chahakk14/DSA/tree/master/3933-largest-local-values-in-a-matrix-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/chahakk14/DSA/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/chahakk14/DSA/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/chahakk14/DSA/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
