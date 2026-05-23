@@ -43,6 +43,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0682-baseball-game](https://github.com/chahakk14/DSA/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chahakk14/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chahakk14/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3933-largest-local-values-in-a-matrix-ii](https://github.com/chahakk14/DSA/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/chahakk14/DSA/tree/master/0048-rotate-image) |
+| [3933-largest-local-values-in-a-matrix-ii](https://github.com/chahakk14/DSA/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -132,4 +134,8 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chahakk14/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Prefix Sum
+|  |
+| ------- |
+| [3933-largest-local-values-in-a-matrix-ii](https://github.com/chahakk14/DSA/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 <!---LeetCode Topics End-->
