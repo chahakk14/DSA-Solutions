@@ -46,6 +46,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0217-contains-duplicate](https://github.com/chahakk14/DSA/tree/master/0217-contains-duplicate) |
 | [0622-design-circular-queue](https://github.com/chahakk14/DSA/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/chahakk14/DSA/tree/master/0682-baseball-game) |
+| [1095-find-in-mountain-array](https://github.com/chahakk14/DSA/tree/master/1095-find-in-mountain-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chahakk14/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/chahakk14/DSA/tree/master/1598-crawler-log-folder) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chahakk14/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -73,6 +74,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0069-sqrtx](https://github.com/chahakk14/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chahakk14/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0374-guess-number-higher-or-lower](https://github.com/chahakk14/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/chahakk14/DSA/tree/master/1095-find-in-mountain-array) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/chahakk14/DSA/tree/master/3932-count-k-th-roots-in-a-range) |
 | [3934-smallest-unique-subarray](https://github.com/chahakk14/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
@@ -200,4 +202,5 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/chahakk14/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/chahakk14/DSA/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
