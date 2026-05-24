@@ -36,6 +36,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0015-3sum](https://github.com/chahakk14/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chahakk14/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/chahakk14/DSA/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/chahakk14/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chahakk14/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/chahakk14/DSA/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chahakk14/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -67,6 +68,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/chahakk14/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chahakk14/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/chahakk14/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chahakk14/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
