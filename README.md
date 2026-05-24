@@ -8,6 +8,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | ------- |
 | [0007-reverse-integer](https://github.com/chahakk14/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/chahakk14/DSA/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/chahakk14/DSA/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/chahakk14/DSA/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/chahakk14/DSA/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/chahakk14/DSA/tree/master/0342-power-of-four) |
@@ -66,6 +67,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chahakk14/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/chahakk14/DSA/tree/master/0069-sqrtx) |
 | [0374-guess-number-higher-or-lower](https://github.com/chahakk14/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/chahakk14/DSA/tree/master/3932-count-k-th-roots-in-a-range) |
 | [3934-smallest-unique-subarray](https://github.com/chahakk14/DSA/tree/master/3934-smallest-unique-subarray) |
