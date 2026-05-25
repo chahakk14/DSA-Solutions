@@ -29,6 +29,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/chahakk14/DSA/tree/master/0279-perfect-squares) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/chahakk14/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Array
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chahakk14/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chahakk14/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/chahakk14/DSA/tree/master/0027-remove-element) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/chahakk14/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/chahakk14/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/chahakk14/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
@@ -159,6 +161,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0001-two-sum](https://github.com/chahakk14/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/chahakk14/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chahakk14/DSA/tree/master/0242-valid-anagram) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/chahakk14/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3934-smallest-unique-subarray](https://github.com/chahakk14/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Simulation
 |  |
@@ -199,6 +202,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chahakk14/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/chahakk14/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/chahakk14/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/chahakk14/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -210,6 +214,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0145-binary-tree-postorder-traversal](https://github.com/chahakk14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chahakk14/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/chahakk14/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/chahakk14/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -220,6 +225,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chahakk14/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/chahakk14/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/chahakk14/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/chahakk14/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Interactive
@@ -233,6 +239,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0098-validate-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chahakk14/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/chahakk14/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/chahakk14/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
