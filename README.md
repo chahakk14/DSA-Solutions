@@ -196,6 +196,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0144-binary-tree-preorder-traversal](https://github.com/chahakk14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chahakk14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/chahakk14/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -210,9 +211,14 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0144-binary-tree-preorder-traversal](https://github.com/chahakk14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chahakk14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/chahakk14/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Interactive
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/chahakk14/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [1095-find-in-mountain-array](https://github.com/chahakk14/DSA/tree/master/1095-find-in-mountain-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
