@@ -41,6 +41,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0033-search-in-rotated-sorted-array](https://github.com/chahakk14/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chahakk14/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/chahakk14/DSA/tree/master/0048-rotate-image) |
+| [0078-subsets](https://github.com/chahakk14/DSA/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chahakk14/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/chahakk14/DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/chahakk14/DSA/tree/master/0204-count-primes) |
@@ -94,6 +95,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/chahakk14/DSA/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/chahakk14/DSA/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/chahakk14/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/chahakk14/DSA/tree/master/0342-power-of-four) |
@@ -242,4 +244,8 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chahakk14/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/chahakk14/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
