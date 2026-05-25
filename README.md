@@ -6,6 +6,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/chahakk14/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/chahakk14/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/chahakk14/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/chahakk14/DSA/tree/master/0069-sqrtx) |
@@ -110,6 +111,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/chahakk14/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chahakk14/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/chahakk14/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/chahakk14/DSA/tree/master/0328-odd-even-linked-list) |
@@ -121,6 +123,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/chahakk14/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/chahakk14/DSA/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/chahakk14/DSA/tree/master/0342-power-of-four) |
 ## Stack
