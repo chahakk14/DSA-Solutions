@@ -82,6 +82,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | ------- |
 | [0015-3sum](https://github.com/chahakk14/DSA/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/chahakk14/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/chahakk14/DSA/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,6 +137,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chahakk14/DSA/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/chahakk14/DSA/tree/master/0242-valid-anagram) |
 | [1598-crawler-log-folder](https://github.com/chahakk14/DSA/tree/master/1598-crawler-log-folder) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chahakk14/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3931-check-adjacent-digit-differences](https://github.com/chahakk14/DSA/tree/master/3931-check-adjacent-digit-differences) |
@@ -150,6 +152,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | ------- |
 | [0001-two-sum](https://github.com/chahakk14/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/chahakk14/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/chahakk14/DSA/tree/master/0242-valid-anagram) |
 | [3934-smallest-unique-subarray](https://github.com/chahakk14/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Simulation
 |  |
