@@ -16,6 +16,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chahakk14/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chahakk14/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/chahakk14/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chahakk14/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/chahakk14/DSA/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Dynamic Programming
 |  |
@@ -60,6 +61,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chahakk14/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/chahakk14/DSA/tree/master/1598-crawler-log-folder) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chahakk14/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chahakk14/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/chahakk14/DSA/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3934-smallest-unique-subarray](https://github.com/chahakk14/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
