@@ -48,6 +48,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0078-subsets](https://github.com/chahakk14/DSA/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/chahakk14/DSA/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chahakk14/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/chahakk14/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/chahakk14/DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/chahakk14/DSA/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/chahakk14/DSA/tree/master/0213-house-robber-ii) |
@@ -96,11 +97,13 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/chahakk14/DSA/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/chahakk14/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chahakk14/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chahakk14/DSA/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/chahakk14/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/chahakk14/DSA/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -175,6 +178,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | ------- |
 | [0001-two-sum](https://github.com/chahakk14/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chahakk14/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/chahakk14/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chahakk14/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chahakk14/DSA/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chahakk14/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -267,4 +271,8 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chahakk14/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/chahakk14/DSA/tree/master/0643-maximum-average-subarray-i) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/chahakk14/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
