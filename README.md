@@ -21,6 +21,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/chahakk14/DSA/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/chahakk14/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/chahakk14/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/chahakk14/DSA/tree/master/0213-house-robber-ii) |
@@ -45,6 +46,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0033-search-in-rotated-sorted-array](https://github.com/chahakk14/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chahakk14/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/chahakk14/DSA/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/chahakk14/DSA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/chahakk14/DSA/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/chahakk14/DSA/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chahakk14/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -103,6 +105,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/chahakk14/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/chahakk14/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/chahakk14/DSA/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
