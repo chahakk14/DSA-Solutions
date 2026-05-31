@@ -50,6 +50,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0078-subsets](https://github.com/chahakk14/DSA/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/chahakk14/DSA/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chahakk14/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chahakk14/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/chahakk14/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/chahakk14/DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/chahakk14/DSA/tree/master/0204-count-primes) |
@@ -76,6 +77,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chahakk14/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/chahakk14/DSA/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/chahakk14/DSA/tree/master/0061-rotate-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chahakk14/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chahakk14/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/chahakk14/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/chahakk14/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -91,6 +93,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chahakk14/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/chahakk14/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chahakk14/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chahakk14/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/chahakk14/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [1095-find-in-mountain-array](https://github.com/chahakk14/DSA/tree/master/1095-find-in-mountain-array) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/chahakk14/DSA/tree/master/3932-count-k-th-roots-in-a-range) |
