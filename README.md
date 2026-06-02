@@ -68,6 +68,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [1095-find-in-mountain-array](https://github.com/chahakk14/DSA/tree/master/1095-find-in-mountain-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chahakk14/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/chahakk14/DSA/tree/master/1598-crawler-log-folder) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chahakk14/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1833-maximum-ice-cream-bars](https://github.com/chahakk14/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chahakk14/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chahakk14/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -105,6 +106,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chahakk14/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/chahakk14/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [1095-find-in-mountain-array](https://github.com/chahakk14/DSA/tree/master/1095-find-in-mountain-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chahakk14/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/chahakk14/DSA/tree/master/3932-count-k-th-roots-in-a-range) |
 | [3934-smallest-unique-subarray](https://github.com/chahakk14/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
@@ -201,6 +203,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0217-contains-duplicate](https://github.com/chahakk14/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chahakk14/DSA/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chahakk14/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chahakk14/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3934-smallest-unique-subarray](https://github.com/chahakk14/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Simulation
 |  |
@@ -213,6 +216,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chahakk14/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/chahakk14/DSA/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 ## Rolling Hash
 |  |
@@ -290,6 +294,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chahakk14/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/chahakk14/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chahakk14/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Counting
 |  |
 | ------- |
