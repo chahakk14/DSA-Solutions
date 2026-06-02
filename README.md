@@ -68,6 +68,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [1095-find-in-mountain-array](https://github.com/chahakk14/DSA/tree/master/1095-find-in-mountain-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chahakk14/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/chahakk14/DSA/tree/master/1598-crawler-log-folder) |
+| [1833-maximum-ice-cream-bars](https://github.com/chahakk14/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chahakk14/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chahakk14/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/chahakk14/DSA/tree/master/3933-largest-local-values-in-a-matrix-ii) |
@@ -92,6 +93,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0011-container-with-most-water](https://github.com/chahakk14/DSA/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/chahakk14/DSA/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/chahakk14/DSA/tree/master/0881-boats-to-save-people) |
+| [1833-maximum-ice-cream-bars](https://github.com/chahakk14/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chahakk14/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Binary Search
 |  |
@@ -115,6 +117,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0561-array-partition](https://github.com/chahakk14/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chahakk14/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/chahakk14/DSA/tree/master/0881-boats-to-save-people) |
+| [1833-maximum-ice-cream-bars](https://github.com/chahakk14/DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -295,4 +298,5 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/chahakk14/DSA/tree/master/0561-array-partition) |
+| [1833-maximum-ice-cream-bars](https://github.com/chahakk14/DSA/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
