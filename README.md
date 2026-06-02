@@ -64,6 +64,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0643-maximum-average-subarray-i](https://github.com/chahakk14/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/chahakk14/DSA/tree/master/0682-baseball-game) |
 | [0881-boats-to-save-people](https://github.com/chahakk14/DSA/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/chahakk14/DSA/tree/master/0912-sort-an-array) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/chahakk14/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1095-find-in-mountain-array](https://github.com/chahakk14/DSA/tree/master/1095-find-in-mountain-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chahakk14/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -119,6 +120,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0561-array-partition](https://github.com/chahakk14/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chahakk14/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/chahakk14/DSA/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/chahakk14/DSA/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/chahakk14/DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Divide and Conquer
 |  |
@@ -126,6 +128,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0053-maximum-subarray](https://github.com/chahakk14/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/chahakk14/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/chahakk14/DSA/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/chahakk14/DSA/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -303,5 +306,22 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/chahakk14/DSA/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/chahakk14/DSA/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/chahakk14/DSA/tree/master/1833-maximum-ice-cream-bars) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/chahakk14/DSA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/chahakk14/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/chahakk14/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/chahakk14/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
