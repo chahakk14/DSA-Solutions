@@ -58,6 +58,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0213-house-robber-ii](https://github.com/chahakk14/DSA/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/chahakk14/DSA/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/chahakk14/DSA/tree/master/0221-maximal-square) |
+| [0561-array-partition](https://github.com/chahakk14/DSA/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/chahakk14/DSA/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chahakk14/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/chahakk14/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -89,6 +90,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chahakk14/DSA/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/chahakk14/DSA/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/chahakk14/DSA/tree/master/0881-boats-to-save-people) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chahakk14/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Binary Search
@@ -110,6 +112,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0169-majority-element](https://github.com/chahakk14/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chahakk14/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chahakk14/DSA/tree/master/0242-valid-anagram) |
+| [0561-array-partition](https://github.com/chahakk14/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chahakk14/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/chahakk14/DSA/tree/master/0881-boats-to-save-people) |
 ## Divide and Conquer
@@ -288,4 +291,8 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/chahakk14/DSA/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/chahakk14/DSA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
