@@ -187,6 +187,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chahakk14/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/chahakk14/DSA/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/chahakk14/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0242-valid-anagram](https://github.com/chahakk14/DSA/tree/master/0242-valid-anagram) |
 | [1598-crawler-log-folder](https://github.com/chahakk14/DSA/tree/master/1598-crawler-log-folder) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chahakk14/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -202,6 +203,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | ------- |
 | [0001-two-sum](https://github.com/chahakk14/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chahakk14/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/chahakk14/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/chahakk14/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chahakk14/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chahakk14/DSA/tree/master/0242-valid-anagram) |
@@ -296,6 +298,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chahakk14/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/chahakk14/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0643-maximum-average-subarray-i](https://github.com/chahakk14/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chahakk14/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Counting
