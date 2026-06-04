@@ -158,6 +158,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chahakk14/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/chahakk14/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/chahakk14/DSA/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/chahakk14/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/chahakk14/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/chahakk14/DSA/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/chahakk14/DSA/tree/master/0622-design-circular-queue) |
