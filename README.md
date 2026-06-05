@@ -156,6 +156,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | ------- |
 | [0002-add-two-numbers](https://github.com/chahakk14/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chahakk14/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/chahakk14/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/chahakk14/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/chahakk14/DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/chahakk14/DSA/tree/master/0092-reverse-linked-list-ii) |
@@ -170,6 +171,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chahakk14/DSA/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/chahakk14/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/chahakk14/DSA/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/chahakk14/DSA/tree/master/0342-power-of-four) |
 ## Stack
