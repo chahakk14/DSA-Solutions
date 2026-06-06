@@ -61,6 +61,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0213-house-robber-ii](https://github.com/chahakk14/DSA/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/chahakk14/DSA/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/chahakk14/DSA/tree/master/0221-maximal-square) |
+| [0456-132-pattern](https://github.com/chahakk14/DSA/tree/master/0456-132-pattern) |
 | [0561-array-partition](https://github.com/chahakk14/DSA/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/chahakk14/DSA/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chahakk14/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -113,6 +114,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chahakk14/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chahakk14/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/chahakk14/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0456-132-pattern](https://github.com/chahakk14/DSA/tree/master/0456-132-pattern) |
 | [1095-find-in-mountain-array](https://github.com/chahakk14/DSA/tree/master/1095-find-in-mountain-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chahakk14/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/chahakk14/DSA/tree/master/3932-count-k-th-roots-in-a-range) |
@@ -191,6 +193,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0150-evaluate-reverse-polish-notation](https://github.com/chahakk14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/chahakk14/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/chahakk14/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0456-132-pattern](https://github.com/chahakk14/DSA/tree/master/0456-132-pattern) |
 | [0682-baseball-game](https://github.com/chahakk14/DSA/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chahakk14/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/chahakk14/DSA/tree/master/1598-crawler-log-folder) |
@@ -230,6 +233,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/chahakk14/DSA/tree/master/0456-132-pattern) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chahakk14/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Prefix Sum
 |  |
@@ -344,4 +348,8 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/chahakk14/DSA/tree/master/0912-sort-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/chahakk14/DSA/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
