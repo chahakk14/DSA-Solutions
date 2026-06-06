@@ -10,6 +10,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0007-reverse-integer](https://github.com/chahakk14/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/chahakk14/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/chahakk14/DSA/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/chahakk14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/chahakk14/DSA/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/chahakk14/DSA/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/chahakk14/DSA/tree/master/0342-power-of-four) |
@@ -50,6 +51,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0053-maximum-subarray](https://github.com/chahakk14/DSA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/chahakk14/DSA/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/chahakk14/DSA/tree/master/0120-triangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/chahakk14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chahakk14/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chahakk14/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/chahakk14/DSA/tree/master/0169-majority-element) |
@@ -181,6 +183,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0094-binary-tree-inorder-traversal](https://github.com/chahakk14/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chahakk14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chahakk14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/chahakk14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/chahakk14/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/chahakk14/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/chahakk14/DSA/tree/master/0682-baseball-game) |
