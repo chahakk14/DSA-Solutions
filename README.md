@@ -352,4 +352,8 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/chahakk14/DSA/tree/master/0456-132-pattern) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/chahakk14/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
