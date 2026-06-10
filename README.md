@@ -38,6 +38,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/chahakk14/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/chahakk14/DSA/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/chahakk14/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/chahakk14/DSA/tree/master/0279-perfect-squares) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chahakk14/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Array
@@ -276,6 +277,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0112-path-sum](https://github.com/chahakk14/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chahakk14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chahakk14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/chahakk14/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chahakk14/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/chahakk14/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/chahakk14/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -290,6 +292,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0112-path-sum](https://github.com/chahakk14/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chahakk14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chahakk14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/chahakk14/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chahakk14/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/chahakk14/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chahakk14/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -302,6 +305,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0112-path-sum](https://github.com/chahakk14/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chahakk14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chahakk14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/chahakk14/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chahakk14/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/chahakk14/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/chahakk14/DSA/tree/master/0543-diameter-of-binary-tree) |
