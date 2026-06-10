@@ -278,6 +278,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0098-validate-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/chahakk14/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/chahakk14/DSA/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/chahakk14/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chahakk14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chahakk14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/chahakk14/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -293,6 +294,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0094-binary-tree-inorder-traversal](https://github.com/chahakk14/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/chahakk14/DSA/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/chahakk14/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chahakk14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chahakk14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/chahakk14/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -307,6 +309,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0098-validate-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/chahakk14/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/chahakk14/DSA/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/chahakk14/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chahakk14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chahakk14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/chahakk14/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -335,6 +338,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/chahakk14/DSA/tree/master/0078-subsets) |
+| [0113-path-sum-ii](https://github.com/chahakk14/DSA/tree/master/0113-path-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
