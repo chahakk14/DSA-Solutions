@@ -10,6 +10,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0007-reverse-integer](https://github.com/chahakk14/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/chahakk14/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/chahakk14/DSA/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/chahakk14/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chahakk14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/chahakk14/DSA/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/chahakk14/DSA/tree/master/0279-perfect-squares) |
@@ -25,6 +26,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chahakk14/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/chahakk14/DSA/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/chahakk14/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/chahakk14/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/chahakk14/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/chahakk14/DSA/tree/master/0213-house-robber-ii) |
@@ -272,6 +274,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chahakk14/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/chahakk14/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/chahakk14/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/chahakk14/DSA/tree/master/0112-path-sum) |
@@ -300,6 +303,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chahakk14/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/chahakk14/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/chahakk14/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/chahakk14/DSA/tree/master/0112-path-sum) |
@@ -320,6 +324,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/chahakk14/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chahakk14/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/chahakk14/DSA/tree/master/0450-delete-node-in-a-bst) |
