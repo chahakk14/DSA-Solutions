@@ -23,6 +23,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/chahakk14/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/chahakk14/DSA/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/chahakk14/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/chahakk14/DSA/tree/master/0198-house-robber) |
@@ -48,6 +49,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0027-remove-element](https://github.com/chahakk14/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/chahakk14/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chahakk14/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/chahakk14/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/chahakk14/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/chahakk14/DSA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/chahakk14/DSA/tree/master/0078-subsets) |
@@ -89,6 +91,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chahakk14/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chahakk14/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/chahakk14/DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/chahakk14/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/chahakk14/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/chahakk14/DSA/tree/master/0086-partition-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chahakk14/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -187,6 +190,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chahakk14/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/chahakk14/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/chahakk14/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chahakk14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chahakk14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -233,6 +237,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/chahakk14/DSA/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/chahakk14/DSA/tree/master/0456-132-pattern) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chahakk14/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Prefix Sum
