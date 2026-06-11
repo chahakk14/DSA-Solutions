@@ -144,6 +144,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/chahakk14/DSA/tree/master/0053-maximum-subarray) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/chahakk14/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/chahakk14/DSA/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/chahakk14/DSA/tree/master/0912-sort-an-array) |
@@ -177,6 +178,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0061-rotate-list](https://github.com/chahakk14/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/chahakk14/DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/chahakk14/DSA/tree/master/0092-reverse-linked-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0206-reverse-linked-list](https://github.com/chahakk14/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/chahakk14/DSA/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/chahakk14/DSA/tree/master/0622-design-circular-queue) |
@@ -277,6 +279,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0096-unique-binary-search-trees](https://github.com/chahakk14/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/chahakk14/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/chahakk14/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/chahakk14/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chahakk14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -308,6 +311,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0096-unique-binary-search-trees](https://github.com/chahakk14/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/chahakk14/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/chahakk14/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/chahakk14/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chahakk14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -329,6 +333,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/chahakk14/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chahakk14/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/chahakk14/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chahakk14/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
