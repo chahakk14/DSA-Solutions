@@ -179,6 +179,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0086-partition-list](https://github.com/chahakk14/DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/chahakk14/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/chahakk14/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/chahakk14/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/chahakk14/DSA/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/chahakk14/DSA/tree/master/0622-design-circular-queue) |
@@ -199,6 +200,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0020-valid-parentheses](https://github.com/chahakk14/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chahakk14/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/chahakk14/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/chahakk14/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chahakk14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chahakk14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chahakk14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -282,6 +284,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/chahakk14/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/chahakk14/DSA/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/chahakk14/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chahakk14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chahakk14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/chahakk14/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -298,6 +301,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0098-validate-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/chahakk14/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/chahakk14/DSA/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/chahakk14/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chahakk14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chahakk14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/chahakk14/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -314,6 +318,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/chahakk14/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/chahakk14/DSA/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/chahakk14/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chahakk14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chahakk14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/chahakk14/DSA/tree/master/0199-binary-tree-right-side-view) |
