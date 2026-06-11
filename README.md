@@ -205,6 +205,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0145-binary-tree-postorder-traversal](https://github.com/chahakk14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chahakk14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/chahakk14/DSA/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/chahakk14/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/chahakk14/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0456-132-pattern](https://github.com/chahakk14/DSA/tree/master/0456-132-pattern) |
 | [0682-baseball-game](https://github.com/chahakk14/DSA/tree/master/0682-baseball-game) |
@@ -226,6 +227,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/chahakk14/DSA/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/chahakk14/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/chahakk14/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/chahakk14/DSA/tree/master/0622-design-circular-queue) |
 ## Hash Table
@@ -287,6 +289,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chahakk14/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chahakk14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chahakk14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/chahakk14/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/chahakk14/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chahakk14/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/chahakk14/DSA/tree/master/0450-delete-node-in-a-bst) |
@@ -321,6 +324,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chahakk14/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chahakk14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chahakk14/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/chahakk14/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/chahakk14/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chahakk14/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/chahakk14/DSA/tree/master/0450-delete-node-in-a-bst) |
@@ -339,6 +343,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0096-unique-binary-search-trees](https://github.com/chahakk14/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/chahakk14/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chahakk14/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/chahakk14/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chahakk14/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -391,4 +396,8 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | ------- |
 | [0175-combine-two-tables](https://github.com/chahakk14/DSA/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/chahakk14/DSA/tree/master/0176-second-highest-salary) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/chahakk14/DSA/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
