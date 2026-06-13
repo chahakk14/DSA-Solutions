@@ -68,6 +68,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0217-contains-duplicate](https://github.com/chahakk14/DSA/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/chahakk14/DSA/tree/master/0221-maximal-square) |
 | [0456-132-pattern](https://github.com/chahakk14/DSA/tree/master/0456-132-pattern) |
+| [0503-next-greater-element-ii](https://github.com/chahakk14/DSA/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/chahakk14/DSA/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/chahakk14/DSA/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chahakk14/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -208,6 +209,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0173-binary-search-tree-iterator](https://github.com/chahakk14/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/chahakk14/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0456-132-pattern](https://github.com/chahakk14/DSA/tree/master/0456-132-pattern) |
+| [0503-next-greater-element-ii](https://github.com/chahakk14/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/chahakk14/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/chahakk14/DSA/tree/master/0735-asteroid-collision) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chahakk14/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -252,6 +254,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chahakk14/DSA/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/chahakk14/DSA/tree/master/0456-132-pattern) |
+| [0503-next-greater-element-ii](https://github.com/chahakk14/DSA/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chahakk14/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Prefix Sum
 |  |
