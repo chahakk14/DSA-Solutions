@@ -36,6 +36,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0338-counting-bits](https://github.com/chahakk14/DSA/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/chahakk14/DSA/tree/master/0354-russian-doll-envelopes) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/chahakk14/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/chahakk14/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chahakk14/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Breadth-First Search
 |  |
@@ -86,6 +87,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chahakk14/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/chahakk14/DSA/tree/master/1598-crawler-log-folder) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chahakk14/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/chahakk14/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1833-maximum-ice-cream-bars](https://github.com/chahakk14/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2574-left-and-right-sum-differences](https://github.com/chahakk14/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chahakk14/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -145,6 +147,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0881-boats-to-save-people](https://github.com/chahakk14/DSA/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/chahakk14/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/chahakk14/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/chahakk14/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1833-maximum-ice-cream-bars](https://github.com/chahakk14/DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Divide and Conquer
 |  |
