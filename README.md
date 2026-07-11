@@ -34,6 +34,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0221-maximal-square](https://github.com/chahakk14/DSA/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/chahakk14/DSA/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/chahakk14/DSA/tree/master/0338-counting-bits) |
+| [0354-russian-doll-envelopes](https://github.com/chahakk14/DSA/tree/master/0354-russian-doll-envelopes) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/chahakk14/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chahakk14/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Breadth-First Search
@@ -68,6 +69,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0213-house-robber-ii](https://github.com/chahakk14/DSA/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/chahakk14/DSA/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/chahakk14/DSA/tree/master/0221-maximal-square) |
+| [0354-russian-doll-envelopes](https://github.com/chahakk14/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0456-132-pattern](https://github.com/chahakk14/DSA/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/chahakk14/DSA/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/chahakk14/DSA/tree/master/0561-array-partition) |
@@ -123,6 +125,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0069-sqrtx](https://github.com/chahakk14/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chahakk14/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chahakk14/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0354-russian-doll-envelopes](https://github.com/chahakk14/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0374-guess-number-higher-or-lower](https://github.com/chahakk14/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/chahakk14/DSA/tree/master/0456-132-pattern) |
 | [1095-find-in-mountain-array](https://github.com/chahakk14/DSA/tree/master/1095-find-in-mountain-array) |
@@ -136,6 +139,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0169-majority-element](https://github.com/chahakk14/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chahakk14/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chahakk14/DSA/tree/master/0242-valid-anagram) |
+| [0354-russian-doll-envelopes](https://github.com/chahakk14/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0561-array-partition](https://github.com/chahakk14/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chahakk14/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/chahakk14/DSA/tree/master/0881-boats-to-save-people) |
