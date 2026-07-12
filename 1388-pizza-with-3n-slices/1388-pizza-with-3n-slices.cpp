@@ -1,3 +1,6 @@
+//Time Complexity= O(k^2)
+//Space complexity= O(k)
+
 class Solution {
 public:
     int maxSizeSlices(vector<int>& slices) {
