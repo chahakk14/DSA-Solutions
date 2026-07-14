@@ -61,6 +61,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0048-rotate-image](https://github.com/chahakk14/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/chahakk14/DSA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/chahakk14/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/chahakk14/DSA/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/chahakk14/DSA/tree/master/0120-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chahakk14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chahakk14/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -171,6 +172,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/chahakk14/DSA/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/chahakk14/DSA/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/chahakk14/DSA/tree/master/0221-maximal-square) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/chahakk14/DSA/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 ## Enumeration
@@ -233,6 +235,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0012-integer-to-roman](https://github.com/chahakk14/DSA/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/chahakk14/DSA/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/chahakk14/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0079-word-search](https://github.com/chahakk14/DSA/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/chahakk14/DSA/tree/master/0242-valid-anagram) |
 | [1598-crawler-log-folder](https://github.com/chahakk14/DSA/tree/master/1598-crawler-log-folder) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chahakk14/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -316,6 +319,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/chahakk14/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/chahakk14/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/chahakk14/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/chahakk14/DSA/tree/master/0112-path-sum) |
@@ -369,6 +373,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/chahakk14/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/chahakk14/DSA/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/chahakk14/DSA/tree/master/0113-path-sum-ii) |
 ## Sliding Window
 |  |
