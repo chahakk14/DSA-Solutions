@@ -1,23 +1,4 @@
 class Solution {
-    bool solve(vector<int>& nums, int index, int target, vector<vector<int>>&dp) {
-        if (target == 0)
-            return true;
-
-        // No elements left or target becomes negative
-        if (index >= nums.size() || target < 0)
-            return false;
-
-        if (dp[index][target]!=-1)
-            return dp[index][target];
-            
-        // Include
-        bool include = solve(nums, index + 1, target - nums[index], dp);
-
-        // Exclude 
-        bool exclude = solve(nums, index + 1, target, dp);
-
-        return dp[index][target]= include || exclude;
-    }
 public:
     bool canPartition(vector<int>& nums) {
         int sum = 0;
@@ -26,9 +7,28 @@ public:
 
         if (sum % 2 != 0)
             return false;
-        
+
         int n= nums.size();
-        vector<vector<int>>dp(n,vector<int>(sum/2+1, -1)) ;
-        return solve(nums, 0, sum / 2, dp);
+        int target = sum / 2;
+        
+        vector<vector<int>>dp(n+1,vector<int>(target+1, 0)) ;
+
+        for(int i=0; i<=n; i++){
+            dp[i][0]= 1;
+        }
+
+        for(int index=n-1; index>=0; index--){
+            for(int t= 0; t<=target; t++){
+                bool include = false;
+
+                if(t - nums[index] >=0)
+                    include = dp [index + 1][t - nums[index]];
+
+                bool exclude = dp [index + 1][t];
+
+                dp[index][t]= include || exclude;
+            }
+        }
+        return dp[0][target];
     }
 };
