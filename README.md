@@ -35,6 +35,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0279-perfect-squares](https://github.com/chahakk14/DSA/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/chahakk14/DSA/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/chahakk14/DSA/tree/master/0354-russian-doll-envelopes) |
+| [0416-partition-equal-subset-sum](https://github.com/chahakk14/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/chahakk14/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/chahakk14/DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1388-pizza-with-3n-slices](https://github.com/chahakk14/DSA/tree/master/1388-pizza-with-3n-slices) |
@@ -74,6 +75,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0217-contains-duplicate](https://github.com/chahakk14/DSA/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/chahakk14/DSA/tree/master/0221-maximal-square) |
 | [0354-russian-doll-envelopes](https://github.com/chahakk14/DSA/tree/master/0354-russian-doll-envelopes) |
+| [0416-partition-equal-subset-sum](https://github.com/chahakk14/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0456-132-pattern](https://github.com/chahakk14/DSA/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/chahakk14/DSA/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/chahakk14/DSA/tree/master/0561-array-partition) |
