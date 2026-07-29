@@ -235,6 +235,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chahakk14/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/chahakk14/DSA/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/chahakk14/DSA/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/chahakk14/DSA/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/chahakk14/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
