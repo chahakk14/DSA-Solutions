@@ -9,6 +9,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0002-add-two-numbers](https://github.com/chahakk14/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/chahakk14/DSA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/chahakk14/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/chahakk14/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/chahakk14/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/chahakk14/DSA/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/chahakk14/DSA/tree/master/0096-unique-binary-search-trees) |
@@ -240,6 +241,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0003-longest-substring-without-repeating-characters](https://github.com/chahakk14/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/chahakk14/DSA/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/chahakk14/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/chahakk14/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/chahakk14/DSA/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/chahakk14/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0079-word-search](https://github.com/chahakk14/DSA/tree/master/0079-word-search) |
@@ -260,6 +262,7 @@ Collection of my LeetCode and Geeks for geeks solutions solved over the days.
 | [0001-two-sum](https://github.com/chahakk14/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chahakk14/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/chahakk14/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/chahakk14/DSA/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/chahakk14/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/chahakk14/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chahakk14/DSA/tree/master/0217-contains-duplicate) |
